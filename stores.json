@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.142499,
+                    22.597784
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "description": "Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+                "name": "Starbucks",
+                "phone": "+44 20 1234 5678",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [86.299820,
+                    21.518499
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "description": "Come and try our award-winning cakes and pastries. We're part of a larger chain of patisseries and cafes.",
+                "name": "Puma",
+                "phone": "+44 117 121 2121",
+                "storeid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.322363,
+                    25.900738
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "description": "Whatever the occasion, whether it's a birthday or a wedding, Josie's Patisserie has the perfect treat for you. We're part of a larger chain of patisseries and cafes.",
+                "name": "Nike",
+                "phone": "+44 1603 123456",
+                "storeid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [76.724658,
+                    30.202116
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "description": "A gourmet patisserie that will delight your senses. We're part of a larger chain of patisseries and cafes.",
+                "name": "Gucci",
+                "phone": "+44 1202 343434",
+                "storeid": "04"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [78.367616,
+                    10.755605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "description": "Spoil yourself or someone special with our classic pastries. We're part of a larger chain of patisseries and cafes.",
+                "name": "zara",
+                "phone": "+44 151 444 4444",
+                "storeid": "05"
+            }
+        }
+        
+    ]
+}
